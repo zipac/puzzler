@@ -31,7 +31,7 @@ class Puzzler
 
   def caesar
     puts 'To start off, here is a simple question.'
-    puts 'What was the name of the person who said the following (6 letters):'
+    puts 'What was the name of the person who was warned with the following (6 letters):'
     puts 'knfjan cqn rmnb xo vjalq' #Beware the ides of March
     check("julius", "Say you search a simple cipher. Find the forename.")
   end
